@@ -12,7 +12,7 @@ redirect_from:
 
 <span class="bluelinks">
 Hey! I'm Felix, a PhD student at the 
-[Max Planck Institute for Software Systems](https://www.mpi-sws.org/"), <nobr>co-advised</nobr> by [*Rupak Majumdar*](https://people.mpi-sws.org/~rupak/) and [*Damien Zufferey*](https://dzufferey.github.io/).
+[Max Planck Institute for Software Systems](https://www.mpi-sws.org/), <nobr>co-advised</nobr> by [*Rupak Majumdar*](https://people.mpi-sws.org/~rupak/) and [*Damien Zufferey*](https://dzufferey.github.io/).
 </span>
 
 In general, I am broadly interested in concurrency and formal methods for distributed computing.

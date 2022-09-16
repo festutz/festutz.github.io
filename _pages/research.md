@@ -11,7 +11,7 @@ author_profile: true
   Comparing Channel Restrictions of Communicating State Machines, <nobr>High-level Message Sequence Charts,</nobr> and Multiparty Session Types
   </strong>
   <span class="bluelinks">
-  [[arxiv](https://*arxiv*.org/abs/2208.05559)]
+  [[arxiv](https://arxiv.org/abs/2208.05559)]
   </span>
   \\
   <span class="authorlinks">
@@ -26,7 +26,7 @@ author_profile: true
   \\
   <span class="bluelinks">
   [[pdf](https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=14412)]
-  [[arxiv](https://*arxiv*.org/abs/2107.03984)]
+  [[arxiv](https://arxiv.org/abs/2107.03984)]
   [[talk](https://www.youtube.com/watch?v=pcop_Xk6UEI#t=36m55s)]
   [[prototype](https://gitlab.mpi-sws.org/fstutz/async-mpst-gen-choice)]
   </span>
@@ -45,7 +45,7 @@ author_profile: true
   </strong>
   <span class="bluelinks">
   [[pdf](https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=12843)]
-  [[arxiv](https://*arxiv*.org/abs/1911.05430)]
+  [[arxiv](https://arxiv.org/abs/1911.05430)]
   [[prototype](https://github.com/festutz/lemma9)]
   </span>
   \\
@@ -67,7 +67,7 @@ author_profile: true
   \\
   Bachelor Thesis 
   <span class="bluelinks">
-  [[pdf](https://www.tcs.cs.tu-bs.de/documents/felix_stutz_bachelors_thesis.*pdf*)]
+  [[pdf](https://www.tcs.cs.tu-bs.de/documents/felix_stutz_bachelors_thesis.pdf)]
   </span>
   <span class="authorlinks">
   (advised by [Roland Meyer](https://www.tcs.cs.tu-bs.de/group/meyer/home.html))
