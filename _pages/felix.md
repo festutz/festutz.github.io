@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-TODO:
-- add links for imprint and data protection
-
 # About
 
 <span class="bluelinks">
