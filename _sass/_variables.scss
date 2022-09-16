@@ -90,7 +90,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $text-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
@@ -151,3 +151,16 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+/*
+   Repurposing italic for link color
+   ========================================================================== */
+em {
+   font-style: normal;
+   border-bottom: none;
+   color: $info-color;
+}
+
+li
+.social-icons {float:left}
+.imprint-data-protection {float:right}

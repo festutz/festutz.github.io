@@ -72,17 +72,51 @@
     }
   }
 
-  a {
-    text-decoration: underline;
+  .bluelinks a {
+
+    color: $info-color;
+    text-decoration: none;
+    border-bottom: none;
 
     &:hover {
       text-decoration: underline;
+      border-bottom: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
   }
+  
+  .authorlinks a {
+
+    text-decoration: none;
+    border-bottom: none;
+
+    &:hover {
+      text-decoration: underline;
+      border-bottom: none;
+
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
+  }
+
+  a { 
+    text-decoration: none;
+    border-bottom: 1pt dotted;
+
+    &:hover {
+      text-decoration: underline;
+      border-bottom: none;
+
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
+  }
+
 
   dt {
     margin-top: 1em;
