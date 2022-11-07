@@ -11,6 +11,7 @@ author_profile: true
   Comparing Channel Restrictions of Communicating State Machines, <nobr>High-level Message Sequence Charts,</nobr> and Multiparty Session Types
   </strong>
   <span class="bluelinks">
+  [[pdf](https://arxiv.org/pdf/2209.10328.pdf)]
   [[arxiv](https://arxiv.org/abs/2208.05559)]
   </span>
   \\
