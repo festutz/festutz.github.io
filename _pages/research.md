@@ -107,7 +107,7 @@ author_profile: true
 
 # Service
 
-I have been a subreviewer for
+I was a subreviewer for
 [CONCUR 2022](https://concur2022.mimuw.edu.pl/), 
 [CDC 2021](https://2021.ieeecdc.org/), 
 [ESOP 2021](https://etaps.org/2021/esop), 
