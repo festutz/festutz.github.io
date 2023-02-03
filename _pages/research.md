@@ -7,6 +7,16 @@ author_profile: true
 
 
 # Publications 
+
+- <strong> 
+  Asynchronous Multiparty Session Type Implementability is Decidable – Lessons Learned from Message Sequence Charts
+  </strong>
+  <span class="bluelinks">
+  [[pdf](https://fstutz.pages.mpi-sws.org/felix-stutz/pdfs/lessons-learned-draft.pdf)]
+  </span>
+  \\
+  Tech Report 2023.
+
 - <strong> 
   Comparing Channel Restrictions of Communicating State Machines, <nobr>High-level Message Sequence Charts,</nobr> and Multiparty Session Types
   </strong>
@@ -59,7 +69,7 @@ author_profile: true
   \\
   Master Thesis
   <span class="bluelinks">
-  [[pdf](https://people.mpi-sws.org/~fstutz/pdfs/msc-thesis.pdf)]
+  [[pdf](https://fstutz.pages.mpi-sws.org/felix-stutz/pdfs/msc-thesis.pdf)]
   </span>
 
 - <strong>
