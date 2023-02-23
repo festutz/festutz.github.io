@@ -12,7 +12,7 @@ author_profile: true
   Asynchronous Multiparty Session Type Implementability is Decidable – Lessons Learned from Message Sequence Charts
   </strong>
   <span class="bluelinks">
-  [[preprint](https://fstutz.pages.mpi-sws.org/felix-stutz/pdfs/lessons-learned-draft.pdf)]
+  [[arxiv](https://arxiv.org/abs/2302.11272)]
   </span>
   \\
   To Appear in [ECOOP 2023](https://2023.ecoop.org/).
