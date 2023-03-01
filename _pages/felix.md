@@ -23,7 +23,7 @@ I try to understand how we can check that such programs behave as they should.
 If you are curious about details, my [Research](/research) section is the place to go for publications and my [Software](/software) section gives an overview of software projects.
 </span>
 
-Earlier this year, I spent half a year with [Nikos Vasilakis](https://nikos.vasilak.is/) at [<nobr>MIT CSAIL</nobr>](https://www.csail.mit.edu/) working on the shell script parallelization framework [PaSh](https://binpa.sh/).
+In 2022, I spent half a year with [Nikos Vasilakis](https://nikos.vasilak.is/) at [<nobr>MIT CSAIL</nobr>](https://www.csail.mit.edu/) working on the shell script parallelization framework [PaSh](https://binpa.sh/).
 
 Before my PhD studies, I got a Masters degree from [University of Saarland](https://saarland-informatics-campus.de/en/).
 During that time, <nobr>I did</nobr> a half-year research internship at [Imperial College London](https://www.imperial.ac.uk/computing) with [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) and [Philippa Gardner](https://www.doc.ic.ac.uk/~pg/).

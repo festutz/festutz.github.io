@@ -104,7 +104,7 @@ author_profile: true
 # Talks
 
 - <strong>
-  Verification of Message-passing Programs - Implementing Communication Protocols 
+  Verification of Message-passing Programs – Implementing Communication Protocols 
   </strong>
   \\
   At: New York University, July 2022.
