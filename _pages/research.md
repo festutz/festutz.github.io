@@ -9,6 +9,21 @@ author_profile: true
 # Publications 
 
 - <strong> 
+  Complete Multiparty Session Type Projection with Automata
+  </strong>
+  <span class="bluelinks">
+  [[pdf](https://fstutz.pages.mpi-sws.org/felix-stutz/pdfs/complete-projection-draft.pdf)] \\
+  </span>
+  With 
+  <span class="authorlinks">
+  Elaine Li,
+  [Thomas Wies](https://cs.nyu.edu/~wies/), and
+  [Damien Zufferey](https://dzufferey.github.io/).
+  \\
+  Tech Report 2023.
+  </span>
+
+- <strong> 
   Asynchronous Multiparty Session Type Implementability is Decidable – Lessons Learned from Message Sequence Charts
   </strong>
   <span class="bluelinks">
