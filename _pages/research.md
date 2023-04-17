@@ -119,6 +119,11 @@ author_profile: true
 # Talks
 
 - <strong>
+  On Implementability of Asynchronous Communication Protocols
+  </strong>
+  \\
+  At: University of Luxembourg, March 2023.
+- <strong>
   Verification of Message-passing Programs – Implementing Communication Protocols 
   </strong>
   \\
