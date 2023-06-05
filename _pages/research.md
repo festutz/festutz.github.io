@@ -12,16 +12,18 @@ author_profile: true
   Complete Multiparty Session Type Projection with Automata
   </strong>
   <span class="bluelinks">
-  [[pdf](https://fstutz.pages.mpi-sws.org/felix-stutz/pdfs/complete-projection-draft.pdf)] \\
+  [[arxiv](https://arxiv.org/abs/2305.17079)]
+  [[prototype](https://gitlab.mpi-sws.org/fstutz/async-mpst-gen-choice)]
   </span>
+  \\
   With 
   <span class="authorlinks">
   Elaine Li,
   [Thomas Wies](https://cs.nyu.edu/~wies/), and
   [Damien Zufferey](https://dzufferey.github.io/).
-  \\
-  Tech Report 2023.
   </span>
+  \\
+  To Appear in [CAV 2023](http://www.i-cav.org/2023/).
 
 - <strong> 
   Asynchronous Multiparty Session Type Implementability is Decidable – Lessons Learned from Message Sequence Charts
