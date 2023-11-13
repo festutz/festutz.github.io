@@ -126,7 +126,7 @@ author_profile: true
   Complete Multiparty Session Type Projection with Automata
   </strong>
   \\
-  At: [ST30 (30 Years of Session Types)]()https://2023.splashcon.org/home/st-anniversary-30), April 2023.
+  At: [ST30 (30 Years of Session Types)](https://2023.splashcon.org/home/st-anniversary-30), April 2023.
 - <strong>
   Multiparty Session Types Meet Message Sequence Charts
   </strong>
