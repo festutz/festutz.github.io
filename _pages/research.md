@@ -24,7 +24,7 @@ author_profile: true
   [Damien Zufferey](https://dzufferey.github.io/).
   </span>
   \\
-  To Appear in [CAV 2023](http://www.i-cav.org/2023/).
+  In: Proceedings of [CAV 2023](http://www.i-cav.org/2023/).
 
 - <strong> 
   Asynchronous Multiparty Session Type Implementability is Decidable – Lessons Learned from Message Sequence Charts
@@ -34,7 +34,7 @@ author_profile: true
   [[arxiv](https://arxiv.org/abs/2302.11272)]
   </span>
   \\
-  To Appear in [ECOOP 2023](https://2023.ecoop.org/).
+  In: Proceedings of [ECOOP 2023](https://2023.ecoop.org/).
 
 - <strong> 
   Comparing Channel Restrictions of Communicating State Machines, <nobr>High-level Message Sequence Charts,</nobr> and Multiparty Session Types
