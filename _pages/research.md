@@ -12,6 +12,7 @@ author_profile: true
   Complete Multiparty Session Type Projection with Automata
   </strong>
   <span class="bluelinks">
+  [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_17)]
   [[arxiv](https://arxiv.org/abs/2305.17079)]
   [[prototype](https://gitlab.mpi-sws.org/fstutz/async-mpst-gen-choice)]
   </span>
@@ -29,6 +30,7 @@ author_profile: true
   Asynchronous Multiparty Session Type Implementability is Decidable – Lessons Learned from Message Sequence Charts
   </strong>
   <span class="bluelinks">
+  [[pdf](https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.32/LIPIcs.ECOOP.2023.32.pdf)]
   [[arxiv](https://arxiv.org/abs/2302.11272)]
   </span>
   \\
@@ -120,6 +122,16 @@ author_profile: true
 
 # Talks
 
+- <strong>
+  Complete Multiparty Session Type Projection with Automata
+  </strong>
+  \\
+  At: [ST30 (30 Years of Session Types)]()https://2023.splashcon.org/home/st-anniversary-30), April 2023.
+- <strong>
+  Multiparty Session Types Meet Message Sequence Charts
+  </strong>
+  \\
+  At: [PLACES](https://places-workshop.github.io/2023/), April 2023.
 - <strong>
   On Implementability of Asynchronous Communication Protocols
   </strong>
