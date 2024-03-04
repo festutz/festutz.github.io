@@ -9,6 +9,21 @@ author_profile: true
 # Publications 
 
 - <strong> 
+  Deciding Subtyping for Asynchronous Multiparty Sessions
+  </strong>
+  <span class="bluelinks">
+  [[arxiv](https://arxiv.org/abs/2401.16395)]
+  </span>
+  \\
+  With 
+  <span class="authorlinks">
+  [Elaine Li](https://efl9013.github.io/) and
+  [Thomas Wies](https://cs.nyu.edu/~wies/).
+  </span>
+  \\
+  In: Proceedings of [ESOP 2024](https://etaps.org/2024/conferences/esop/) (to appear).
+
+- <strong> 
   Complete Multiparty Session Type Projection with Automata
   </strong>
   <span class="bluelinks">
@@ -19,7 +34,7 @@ author_profile: true
   \\
   With 
   <span class="authorlinks">
-  Elaine Li,
+  [Elaine Li](https://efl9013.github.io/), 
   [Thomas Wies](https://cs.nyu.edu/~wies/), and
   [Damien Zufferey](https://dzufferey.github.io/).
   </span>
@@ -123,10 +138,15 @@ author_profile: true
 # Talks
 
 - <strong>
+  Deciding Subtyping for Asynchronous Multiparty Sessions
+  </strong>
+  \\
+  At: [Dagstuhl Seminar on Next Generation Protocols for Heterogeneous Systems](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24051), <nobr>January 2024</nobr>.
+- <strong>
   Complete Multiparty Session Type Projection with Automata
   </strong>
   \\
-  At: [ST30 (30 Years of Session Types)](https://2023.splashcon.org/home/st-anniversary-30), April 2023.
+  At: [ST30 (30 Years of Session Types)](https://2023.splashcon.org/home/st-anniversary-30), October 2023.
 - <strong>
   Multiparty Session Types Meet Message Sequence Charts
   </strong>

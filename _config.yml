@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Felix_Stutz_
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Felix Stutz"
   avatar           : "felix.jpg"
-  bio              : "PhD student at MPI-SWS | Former Visiting Student at MIT"
-  location         : "Kaiserslautern, Germany"
+  bio              : "R&D Specialist at University of Luxembourg | Former PhD student at MPI-SWS"
+  location         : "Belval, Luxembourg"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "fstutz@mpi-sws.org"
+  email            : "felix.stutz@uni.lu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "Felix_Stutz_"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

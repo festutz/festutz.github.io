@@ -3,14 +3,11 @@ permalink: /imprint/
 title: "Imprint"
 ---
 
-Felix Stutz
-
-Paul-Ehrlich-Strasse, Building G 26
-
-D-67663 Kaiserslautern 
+Felix Stutz <br>
+Maison du Nombre <br>
+6 Av. de la Fonte <br>
+L-4364 Esch-Belval Esch-sur-Alzette
 
 <strong>Contact</strong>
 
-Phone: +49 631 9303 8414
-
-E-Mail: fstutz (at) mpi-sws.org
+E-Mail: felix.stutz (at) uni.lu
