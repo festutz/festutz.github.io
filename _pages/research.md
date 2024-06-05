@@ -8,10 +8,23 @@ author_profile: true
 
 # Publications 
 
+- <strong>
+  Implementability of Asynchronous Communication Protocols – The Power of Choice
+  </strong> 
+  \\
+  Doctoral Thesis 
+  <span class="bluelinks">
+  [[pdf](https://kluedo.ub.rptu.de/frontdoor/index/index/docId/8077)]
+  </span>
+  <span class="authorlinks">
+  (advised by [Rupak Majumdar](https://people.mpi-sws.org/~rupak/) and [Damien Zufferey](https://dzufferey.github.io/))
+  </span>
+
 - <strong> 
   Deciding Subtyping for Asynchronous Multiparty Sessions
   </strong>
   <span class="bluelinks">
+  [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-57262-3_8)]
   [[arxiv](https://arxiv.org/abs/2401.16395)]
   </span>
   \\
@@ -21,7 +34,7 @@ author_profile: true
   [Thomas Wies](https://cs.nyu.edu/~wies/).
   </span>
   \\
-  In: Proceedings of [ESOP 2024](https://etaps.org/2024/conferences/esop/) (to appear).
+  In: Proceedings of [ESOP 2024](https://etaps.org/2024/conferences/esop/). 
 
 - <strong> 
   Complete Multiparty Session Type Projection with Automata
@@ -171,10 +184,15 @@ author_profile: true
 
 # Service
 
-I was a subreviewer for
+- Program Committee: 
+[GandALF 2024](https://scool24.github.io/GandALF/),
+[ICE 2024](https://www.discotec.org/2024/ice).
+- Artifact Evaluation Committee: 
+[Coordination 2024](https://www.discotec.org/2024/coordination),
+[FORTE 2024](https://www.discotec.org/2024/forte). 
+- External Reviewer:
 [CONCUR 2022](https://concur2022.mimuw.edu.pl/), 
 [CDC 2021](https://2021.ieeecdc.org/), 
 [ESOP 2021](https://etaps.org/2021/esop), 
-and 
 [VMCAI 2021](https://popl21.sigplan.org/home/VMCAI-2021).
 

@@ -11,7 +11,7 @@ redirect_from:
 # About
 
 <span class="bluelinks">
-Hey! I'm Felix, a research (and development) specialist in the [Security and Trust of Software Systems (SaToSS) group](https://satoss.uni.lu/) led by [Sjouke Mauw](https://satoss.uni.lu/members/sjouke/) at the [University of Luxembourg](https://www.uni.lu/en/).
+Hey! I'm Felix, a postdoctoral researcher in the [Security and Trust of Software Systems (SaToSS) group](https://satoss.uni.lu/) led by [Sjouke Mauw](https://satoss.uni.lu/members/sjouke/) at the [University of Luxembourg](https://www.uni.lu/en/).
 My main research area is formal methods for concurrent and distributed systems as well as security protocols.
 If you are curious about details, my [Research](/research) section is the place to go for publications and my [Software](/software) section gives an overview of software projects.
 </span>
