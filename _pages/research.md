@@ -9,7 +9,7 @@ author_profile: true
 # Publications 
 
 - <strong> 
-  Complete Multiparty Session Type Projection with Automata
+  Characterizing Implementability of Global Protocols with Infinite States and Data
   </strong>
   <span class="bluelinks">
   [[pdf](https://dl.acm.org/doi/pdf/10.1145/3720493)]
