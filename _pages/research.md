@@ -9,6 +9,21 @@ author_profile: true
 # Publications 
 
 - <strong> 
+  Sprout: A Verifier for Symbolic Multiparty Protocols
+  </strong>
+  <span class="bluelinks">
+  [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-98682-6_16)]
+  </span>
+  \\
+  With 
+  <span class="authorlinks">
+  [Elaine Li](https://efl9013.github.io/), 
+  [Thomas Wies](https://cs.nyu.edu/~wies/), and
+  [Damien Zufferey](https://dzufferey.github.io/).
+  </span>
+  \\
+  In: Proceedings of [CAV 2025](https://conferences.i-cav.org/2025/).
+- <strong> 
   Characterizing Implementability of Global Protocols with Infinite States and Data
   </strong>
   <span class="bluelinks">
@@ -24,7 +39,6 @@ author_profile: true
   </span>
   \\
   In: Proceedings of [OOPSLA 2025](https://2025.splashcon.org/track/OOPSLA).
-
 - <strong> 
   An Automata-theoretic Basis for Specification and Type Checking of Multiparty Protocols
   </strong>
@@ -37,8 +51,7 @@ author_profile: true
   [Emanuele D'Osualdo](https://www.emanueledosualdo.com/).
   </span>
   \\
-  To Appear in Proceedings of [ESOP 2025](https://etaps.org/2025/conferences/esop/). 
-
+  In: Proceedings of [ESOP 2025](https://etaps.org/2025/conferences/esop/). 
 - <strong>
   Implementability of Asynchronous Communication Protocols – The Power of Choice
   </strong> 
@@ -50,7 +63,6 @@ author_profile: true
   <span class="authorlinks">
   (advised by [Rupak Majumdar](https://people.mpi-sws.org/~rupak/) and [Damien Zufferey](https://dzufferey.github.io/))
   </span>
-
 - <strong> 
   Deciding Subtyping for Asynchronous Multiparty Sessions
   </strong>
@@ -66,7 +78,6 @@ author_profile: true
   </span>
   \\
   In: Proceedings of [ESOP 2024](https://etaps.org/2024/conferences/esop/). 
-
 - <strong> 
   Complete Multiparty Session Type Projection with Automata
   </strong>
@@ -84,7 +95,6 @@ author_profile: true
   </span>
   \\
   In: Proceedings of [CAV 2023](http://www.i-cav.org/2023/).
-
 - <strong> 
   Asynchronous Multiparty Session Type Implementability is Decidable – Lessons Learned from Message Sequence Charts
   </strong>
@@ -94,7 +104,6 @@ author_profile: true
   </span>
   \\
   In: Proceedings of [ECOOP 2023](https://2023.ecoop.org/).
-
 - <strong> 
   Comparing Channel Restrictions of Communicating State Machines, <nobr>High-level Message Sequence Charts,</nobr> and Multiparty Session Types
   </strong>
@@ -108,7 +117,6 @@ author_profile: true
   </span>
   \\
   In: Proceedings of [GandALF 2022](https://gandalf2022.software.imdea.org/).
-
 - <strong> 
   Generalising Projection in Asynchronous Multiparty Session Types
   </strong>
@@ -128,7 +136,6 @@ author_profile: true
   </span>
   \\
   In: Proceedings of [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php).
-
 - <strong> 
   Decidable Inductive Invariants for Verification of Cryptographic Protocols <nobr> with Unbounded Sessions </nobr>
   </strong>
@@ -149,7 +156,6 @@ author_profile: true
   <span class="bluelinks">
   [[pdf](https://fstutz.pages.mpi-sws.org/felix-stutz/pdfs/msc-thesis.pdf)]
   </span>
-
 - <strong>
   Operations on a Symbolic Domain for Synthesis
   </strong> 
@@ -161,7 +167,6 @@ author_profile: true
   <span class="authorlinks">
   (advised by [Roland Meyer](https://www.tcs.cs.tu-bs.de/group/meyer/home.html))
   </span>
-
 - <strong> 
   PROSA: A Case for Readable Mechanized Schedulability Analysis 
   </strong> 
@@ -181,6 +186,22 @@ author_profile: true
 
 # Talks
 
+- <strong>
+  AMP: Automata-based Multiparty Protocols Framework
+  </strong>
+  \\
+  At: [PLACES](https://places-workshop.github.io/2025/), <nobr> May 2025 </nobr>.
+- <strong>
+   How To Implement Multiparty Protocols:
+   Project and Type Check 
+  </strong>
+  \\
+  At: University of Toronto, <nobr> May 2025 </nobr>.
+- <strong>
+  An Automata-theoretic Basis for Specification and Type Checking of Multiparty Protocols
+  </strong>
+  \\
+  At: [D-Con](www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/forschung/d-con-2025/), <nobr>March 2025</nobr>.
 - <strong>
   Deciding Subtyping for Asynchronous Multiparty Sessions
   </strong>
