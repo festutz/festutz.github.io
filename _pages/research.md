@@ -13,6 +13,7 @@ author_profile: true
   </strong>
   <span class="bluelinks">
   [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-98682-6_16)]
+  [[tool](https://github.com/nyu-acsys/sprout)]
   </span>
   \\
   With 
@@ -43,6 +44,7 @@ author_profile: true
   An Automata-theoretic Basis for Specification and Type Checking of Multiparty Protocols
   </strong>
   <span class="bluelinks">
+  [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-91121-7_13)]
   [[arxiv](https://arxiv.org/abs/2501.16977)]
   </span>
   \\
@@ -247,10 +249,15 @@ author_profile: true
 [Coordination 2024](https://www.discotec.org/2024/coordination),
 [FORTE 2024](https://www.discotec.org/2024/forte). 
 - External Reviewer:
+[CONCUR 2025](https://conferences.au.dk/confest2025/concur), 
 [TASE 2025](https://cyprusconferences.org/tase2025/), 
 [CONCUR 2024](https://confest2024.github.io/), 
 [CONCUR 2022](https://concur2022.mimuw.edu.pl/), 
 [CDC 2021](https://2021.ieeecdc.org/), 
 [ESOP 2021](https://etaps.org/2021/esop), 
 [VMCAI 2021](https://popl21.sigplan.org/home/VMCAI-2021).
+- Journals:
+[Logical Methods in Computer Science 2025](https://lmcs.episciences.org/), 
+[Science of Computer Programming 2025](https://www.sciencedirect.com/journal/science-of-computer-programming). 
+
 
