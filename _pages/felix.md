@@ -24,4 +24,4 @@ In 2022, I spent half a year with [Nikos Vasilakis](https://nikos.vasilak.is/) a
 
 Even earlier, I got a Masters degree from [University of Saarland](https://saarland-informatics-campus.de/en/) and <nobr>I did</nobr> a half-year research internship at [Imperial College London](https://www.imperial.ac.uk/computing) with [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) and [Philippa Gardner](https://www.doc.ic.ac.uk/~pg/).
 
-Of course, just send me a message if something piques your interest and you would like to chat!
+If something piques your interest and you would like to chat, just send me a message!
