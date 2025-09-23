@@ -9,7 +9,7 @@ author_profile: true
 # Courses, Seminars, and Tutorials
 
 - Summer 2025: 
-<strong>Tutorial on Formal Verification of Security Protocols using ProVerif</strong>, Summer School on Formal methods for Information Security, Universitat Rovira i Virgili
+<strong>Tutorial</strong> on <strong>Formal Verification of Security Protocols using ProVerif</strong>, Summer School on Formal methods for Information Security, Universitat Rovira i Virgili
 - Summer 2025:
 <strong>Theoretical Computer Science 1</strong>, Co-Teacher, Bachelor in Computer Science, University of Luxembourg
 - Winter 2024 - 2025:
