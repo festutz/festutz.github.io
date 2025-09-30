@@ -25,7 +25,7 @@ author_profile: true
 # Supervision
 
 - <strong>Nadine Muller</strong>, Master thesis, Co-Advisor, Master in Information and Computer Sciences, University of Luxembourg, 2025
-- <strong>Clayton Stevenson</strong>, Master thesis, Co-advisor, University of Luxembourg, Master in Information System Security Management, 2025
-- <strong>Gokdag Goktepe</strong>, Master thesis, Co-advisor, University of Luxembourg, Master in Information System Security Management, 2025
-- <strong>Ole Martin Edstrøm</strong>, Internship, Co-advisor, University of Luxembourg, 2025
+- <strong>Clayton Stevenson</strong>, Master thesis, Co-Advisor, University of Luxembourg, Master in Information System Security Management, 2025
+- <strong>Gokdag Goktepe</strong>, Master thesis, Co-Advisor, University of Luxembourg, Master in Information System Security Management, 2025
+- <strong>Ole Martin Edstrøm</strong>, Internship, Co-Advisor, University of Luxembourg, 2025
 

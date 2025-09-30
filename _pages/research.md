@@ -9,6 +9,22 @@ author_profile: true
 # Publications 
 
 - <strong> 
+   Security Protocols and Threat Models -- Security and Privacy via The Applied <nobr>π-Calculus</nobr>
+  </strong>
+  <span class="bluelinks">
+  [[textbook](https://link.springer.com/book/9783032082480)]
+  </span>
+  \\
+  With 
+  <span class="authorlinks">
+  [Reynaldo Gil-Pons](https://gilcu3.website/), 
+  [Ross Horne](https://www.strath.ac.uk/staff/hornerossdr/), 
+  [Sjouke Mauw](https://satoss.uni.lu/members/sjouke/), and 
+  [Semen Yurkov](https://marblesurf.github.io/).
+  </span>
+  \\
+  Textbook to be Published by [Springer in the Information Security and Cryptography Series](https://link.springer.com/series/4752).
+- <strong> 
   Sprout: A Verifier for Symbolic Multiparty Protocols
   </strong>
   <span class="bluelinks">
@@ -192,13 +208,13 @@ author_profile: true
   AMP: Automata-based Multiparty Protocols Framework
   </strong>
   \\
-  At: [PLACES](https://places-workshop.github.io/2025/), <nobr> May 2025 </nobr>.
+  At: [PLACES](https://places-workshop.github.io/2025/), <nobr>May 2025</nobr>.
 - <strong>
    How To Implement Multiparty Protocols:
    Project and Type Check 
   </strong>
   \\
-  At: University of Toronto, <nobr> May 2025 </nobr>.
+  At: University of Toronto, <nobr>May 2025</nobr>.
 - <strong>
   An Automata-theoretic Basis for Specification and Type Checking of Multiparty Protocols
   </strong>
