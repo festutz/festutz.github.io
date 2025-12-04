@@ -18,6 +18,7 @@ author_profile: true
 - [FORTE 2024](https://www.discotec.org/2024/forte)
 
 # External Reviewer
+- [OOPSLA 2026](https://2026.splashcon.org/track/oopsla-2026)
 - [CONCUR 2025](https://conferences.au.dk/confest2025/concur)
 - [TASE 2025](https://cyprusconferences.org/tase2025/)
 - [CONCUR 2024](https://confest2024.github.io/)

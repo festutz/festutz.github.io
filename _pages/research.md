@@ -205,6 +205,11 @@ author_profile: true
 # Talks
 
 - <strong>
+  On Individual and Collective Behaviour in Multiparty Protocols 
+  </strong>
+  \\
+  At: [ICR20 (20th Anniversary of the Individual and Collective Reasoning Group)](https://icr.uni.lu/luxlogai2025/schedule.html), <nobr>December 2025</nobr>.
+- <strong>
   AMP: Automata-based Multiparty Protocols Framework
   </strong>
   \\
@@ -250,30 +255,3 @@ author_profile: true
   </strong>
   \\
   At: [Highlights](https://web.archive.org/web/20210817201651/http://highlights-conference.org/), September 2021.
-
-
-# Service
-
-- Program Committee: 
-[OOPSLA 2025](https://2025.splashcon.org/track/OOPSLA),
-[Coordination 2025](https://www.discotec.org/2025/coordination),
-[ICE 2025](https://www.discotec.org/2025/ice),
-[Express/SOS 2024](https://express-sos.github.io/),
-[GandALF 2024](https://scool24.github.io/GandALF/),
-[ICE 2024](https://www.discotec.org/2024/ice).
-- Artifact Evaluation Committee: 
-[Coordination 2024](https://www.discotec.org/2024/coordination),
-[FORTE 2024](https://www.discotec.org/2024/forte). 
-- External Reviewer:
-[CONCUR 2025](https://conferences.au.dk/confest2025/concur), 
-[TASE 2025](https://cyprusconferences.org/tase2025/), 
-[CONCUR 2024](https://confest2024.github.io/), 
-[CONCUR 2022](https://concur2022.mimuw.edu.pl/), 
-[CDC 2021](https://2021.ieeecdc.org/), 
-[ESOP 2021](https://etaps.org/2021/esop), 
-[VMCAI 2021](https://popl21.sigplan.org/home/VMCAI-2021).
-- Journals:
-[Logical Methods in Computer Science 2025](https://lmcs.episciences.org/), 
-[Science of Computer Programming 2025](https://www.sciencedirect.com/journal/science-of-computer-programming). 
-
-
