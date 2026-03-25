@@ -18,6 +18,7 @@ author_profile: true
 - [FORTE 2024](https://www.discotec.org/2024/forte)
 
 # External Reviewer
+- [LICS 2026](https://lics.siglog.org/lics26/)
 - [OOPSLA 2026](https://2026.splashcon.org/track/oopsla-2026)
 - [CONCUR 2025](https://conferences.au.dk/confest2025/concur)
 - [TASE 2025](https://cyprusconferences.org/tase2025/)
@@ -27,7 +28,7 @@ author_profile: true
 - [ESOP 2021](https://etaps.org/2021/esop)
 - [VMCAI 2021](https://popl21.sigplan.org/home/VMCAI-2021)
 
-# Journals
+# Journal Reviewer
 - [Logical Methods in Computer Science 2025](https://lmcs.episciences.org/)
 - [Science of Computer Programming 2025](https://www.sciencedirect.com/journal/science-of-computer-programming)
 

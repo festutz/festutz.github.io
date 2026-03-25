@@ -9,6 +9,22 @@ author_profile: true
 # Publications 
 
 - <strong> 
+  Honest Users Make Honest Mistakes: A Framework for Analysing eID Protocols
+  </strong>
+  <span class="bluelinks">
+  [[eprint](https://eprint.iacr.org/2025/1686.pdf)]
+  </span>
+  \\
+  With 
+  <span class="authorlinks">
+  [Ole Martin Edstrøm](https://www.ntnu.edu/employees/ole.m.edstrom), 
+  [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen), 
+  [Hans Heum](https://www.simula.no/people/hansh),
+  [Sjouke Mauw](https://satoss.uni.lu/members/sjouke/).
+  </span>
+  \\
+  To Appear In: Proceedings of [EuroS&P 2026](https://eurosp2026.ieee-security.org/).
+- <strong> 
    Security Protocols and Threat Models -- Security and Privacy via The Applied <nobr>π-Calculus</nobr>
   </strong>
   <span class="bluelinks">
