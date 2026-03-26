@@ -221,6 +221,11 @@ author_profile: true
 # Talks
 
 - <strong>
+  Implementability of Asynchronous Global Protocols with Infinite States and Data
+  </strong>
+  \\
+  At: [D-CON](https://www.tu.berlin/en/mtv/research/events/d-con-2026), <nobr>March 2026</nobr>.
+- <strong>
   On Individual and Collective Behaviour in Multiparty Protocols 
   </strong>
   \\
@@ -240,7 +245,7 @@ author_profile: true
   An Automata-theoretic Basis for Specification and Type Checking of Multiparty Protocols
   </strong>
   \\
-  At: [D-Con](www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/forschung/d-con-2025/), <nobr>March 2025</nobr>.
+  At: [D-CON](www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/forschung/d-con-2025/), <nobr>March 2025</nobr>.
 - <strong>
   Deciding Subtyping for Asynchronous Multiparty Sessions
   </strong>
