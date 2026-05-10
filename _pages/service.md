@@ -5,7 +5,11 @@ excerpt: ""
 author_profile: true
 ---
 
+# Co-Organizer
+- [Symposium on Formal Methods for Security, Privacy, and Trust 2026](https://satoss.uni.lu/seminars/srm/2026symposium_index.php)
+
 # Program Committee 
+- [ICE 2026](https://www.discotec.org/2026/satellite/ice)
 - [OOPSLA 2025](https://2025.splashcon.org/track/OOPSLA)
 - [Coordination 2025](https://www.discotec.org/2025/coordination)
 - [ICE 2025](https://www.discotec.org/2025/ice)

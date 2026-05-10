@@ -8,6 +8,8 @@ author_profile: true
 
 # Courses, Seminars, and Tutorials
 
+- Summer 2026:
+<strong>Theoretical Computer Science 1</strong>, Main Teacher, Bachelor in Computer Science, University of Luxembourg
 - Winter 2025 - 2026:
 <strong>Security Protocols</strong>, Main Teacher, Master in Information and Computer Sciences, University of Luxembourg
 - Summer 2025: 
@@ -26,9 +28,10 @@ author_profile: true
 
 # Supervision
 
-- <strong>Freya Murphy</strong>, Internship, Co-Advisor, University of Luxembourg, 2026
-- <strong>Nadine Muller</strong>, Master thesis, Co-Advisor, Master in Information and Computer Sciences, University of Luxembourg, 2025
+- <strong>Levani Tchikaidze</strong>, Bachelor Semester Project, University of Luxembourg, Bachelor in Computer Science, Advisor, 2026
+- <strong>Freya Murphy</strong>, PhD Internship, Co-Advisor, University of Luxembourg, 2026
+- <strong>Nadine Muller</strong>, Master thesis, Co-Advisor, University of Luxembourg, Master in Information and Computer Sciences, 2025
 - <strong>Clayton Stevenson</strong>, Master thesis, Co-Advisor, University of Luxembourg, Master in Information System Security Management, 2025
 - <strong>Gokdag Goktepe</strong>, Master thesis, Co-Advisor, University of Luxembourg, Master in Information System Security Management, 2025
-- <strong>Ole Martin Edstrøm</strong>, Internship, Co-Advisor, University of Luxembourg, 2024
+- <strong>Ole Martin Edstrøm</strong>, PhD Internship, Co-Advisor, University of Luxembourg, 2024
 

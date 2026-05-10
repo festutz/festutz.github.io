@@ -10,10 +10,10 @@ redirect_from:
 
 # About
 
-Hey! I'm Felix, a postdoctoral researcher in the [Security and Trust of Software Systems (SaToSS) group](https://satoss.uni.lu/) led by [Sjouke Mauw](https://satoss.uni.lu/members/sjouke/) at the [University of Luxembourg](https://www.uni.lu/en/).
-My research focuses on formal methods for security and software verification, with applications to security protocols and message-passing programs.
-<span class="bluelinks">
-If you are curious about details, the [Research](/research) section is the place to go for publications and the [Software](/software) section gives an overview of software projects.
+I'm a computer scientist specializing in <b>formal methods</b> for <b>software verification</b> and <b>cybersecurity</b>. 
+My goal is that software is reliable and safe to use.
+Towards this end, I develop and apply formal techniques to mathematically prove functional correctness as well as security and privacy guarantees, in particular for concurrent message-passing programs and security protocols. 
+Currently, I am pursuing this as a postdoctoral researcher at the [University of Luxembourg](https://www.uni.lu/en/).<span class="bluelinks"> If you are curious about details, the [Research](/research) section is the place to go for publications and the [Software](/software) section gives an overview of software projects.
 </span>
 
 Prior, I was a PhD student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), <nobr>co-advised</nobr> by [Rupak Majumdar](https://people.mpi-sws.org/~rupak/) and [Damien Zufferey](https://dzufferey.github.io/).
