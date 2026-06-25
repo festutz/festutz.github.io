@@ -25,6 +25,20 @@ author_profile: true
   \\
   To Appear In: Proceedings of [EuroS&P 2026](https://eurosp2026.ieee-security.org/).
 - <strong> 
+  Improving Trust in Legal Automation: an Intelligible Approach for Consumer Complaints
+  </strong>
+  <span class="bluelinks">
+  [[pdf](https://link.springer.com/chapter/10.1007/978-3-032-20684-8_11)]
+  </span>
+  \\
+  With 
+  <span class="authorlinks">
+  [Alessandro Parenti](https://www.unibo.it/sitoweb/alessandro.parenti3),
+  [Tomer Libal](https://tomer.libal.info/).
+  </span>
+  \\
+  In: [Juggling Formal Methods and Security](https://link.springer.com/book/10.1007/978-3-032-20684-8).
+- <strong> 
    Security Protocols and Threat Models -- Security and Privacy via The Applied <nobr>π-Calculus</nobr>
   </strong>
   <span class="bluelinks">
@@ -224,7 +238,8 @@ author_profile: true
   Implementability of Asynchronous Global Protocols with Infinite States and Data
   </strong>
   \\
-  At: [D-CON](https://www.tu.berlin/en/mtv/research/events/d-con-2026), <nobr>March 2026</nobr>.
+  At: [CISPA](https://cispa.de/en), <nobr>May 2026</nobr>, and 
+      [D-CON](https://www.tu.berlin/en/mtv/research/events/d-con-2026), <nobr>March 2026</nobr>.
 - <strong>
   On Individual and Collective Behaviour in Multiparty Protocols 
   </strong>
