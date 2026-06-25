@@ -53,7 +53,7 @@ author_profile: true
   [Semen Yurkov](https://marblesurf.github.io/).
   </span>
   \\
-  Textbook to be Published by [Springer in the Information Security and Cryptography Series](https://link.springer.com/series/4752).
+  Textbook Published by [Springer in the Information Security and Cryptography Series](https://link.springer.com/series/4752).
 - <strong> 
   Sprout: A Verifier for Symbolic Multiparty Protocols
   </strong>
